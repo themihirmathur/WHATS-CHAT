@@ -1,0 +1,101 @@
+body{
+    height:100vh;
+    background-image: url('Wall8.png');
+}
+
+.logo1{
+    display: block;
+    margin: auto;
+    width: 69px;
+    height: 69px;
+    margin-top: 15px;
+    margin-bottom: 8px;
+}
+
+.logo2{
+    display: block;
+    margin: auto;
+    width: 250px;
+    height: 55px;
+    margin-top: 8px;
+}
+
+.container{
+    background-image: url('Wall11.png');
+    max-width: 955px;
+    border: 0.5px solid gold;
+    border-radius: 7px;
+    margin: auto;
+    height: 55vh;
+    padding: 33px;
+    overflow-y: auto;
+    margin-top: 10px;
+    margin-bottom: 23px;
+}
+
+.message {
+    font-family: Helvetica;
+    color: #E9EDEF;
+    background-color: #1F2C33;
+    max-width: 35%;
+    padding: 1%;
+    margin: 18px 6px;
+    border: 1px;
+    border-radius: 10px;
+}
+
+.left{
+    float: left;
+    clear: both;
+    border-radius: 0px 10px 10px 10px;
+}
+
+.right{
+    background-color: #015C4B;
+    float: right;
+    clear: both;
+    border-radius: 10px 0px 10px 10px;
+}
+
+.centre{
+    margin: auto;
+    text-align: center;
+    font-stretch: ultra-expanded;
+    width: 33%;
+    height: 3vh;
+    border-radius: 6px;
+    padding: 1%;
+    margin-top: 18px;
+    margin-bottom: 18px;
+    clear: both;
+    color: #73828C;
+    background-color: #182229; 
+    opacity: 0.79;  
+}
+
+#send-container{
+    display: block;
+    margin: auto;
+    text-align: center;
+    max-width: 1030px;
+    width: 100%;
+}
+
+#messageInp{
+    color: #D2CCD6;
+    background-color: #1E1E1E;
+    width: 92%;
+    border: 0.6px solid silver;
+    border-radius: 9px;
+    height: 30px;
+    font-size: 16px;
+}
+
+.btn{
+    color: #8696A0;
+    background-color: #1F2C33;
+    cursor: pointer;
+    border: 0.5px solid silver;
+    border-radius: 9px;
+    height: 35px;
+}
