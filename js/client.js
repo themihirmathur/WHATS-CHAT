@@ -1,4 +1,4 @@
-const socket = io('whats-chat-web.netlify.app');
+const socket = io('http://localhost:8000');
 
 // Get DOM elements in respective Js variables
 const form = document.getElementById('send-container');
