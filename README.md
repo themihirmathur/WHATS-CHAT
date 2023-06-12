@@ -11,13 +11,13 @@ The application employs the robust AES algorithm for encrypting and decrypting m
 
 * CSS: Employed for styling and enhancing the visual presentation of the application.
 
-* Visual Studio Code: The integrated development environment used for coding and managing the project.
+* [Visual Studio Code](https://code.visualstudio.com/): The integrated development environment used for coding and managing the project.
 
-* Node.js: A JavaScript runtime environment used for server-side development.
+* [Node.js](https://nodejs.org/en): A JavaScript runtime environment used for server-side development.
 
 * JavaScript: The programming language used to implement the logic and functionality of the application.
 
-* Socket.io: A library that enables real-time, bidirectional communication between the server and clients.
+* [Socket.io](https://socket.io/): A library that enables real-time, bidirectional communication between the server and clients.
 
 ## Features
 
@@ -75,6 +75,11 @@ npm start
 1. Log in with your credentials (Name).
 2. Start sending messages to other users in the chat room.
 3. Enjoy secure and real-time encrypted conversations.
+
+## ACKNOWLEDGEMENTS
+
+* The AES encryption algorithm implementation is based on the [`crypto-js`](https://www.npmjs.com/package/crypto-js) library.
+* The Socket.io library is utilized for real-time communication.
 
 <h2>VISION OF THIS PROJECT</h2>
 
