@@ -94,7 +94,7 @@ npm start
 The vision of the WHATS-CHAT project is to provide users with a secure communication platform that safeguards their conversations from unauthorized access. 
 By leveraging strong encryption techniques and real-time functionality, the project aims to promote secure messaging and foster trust in online communication.
 
-![image](https://media.cybernews.com/images/featured/2022/05/Best-secure-communication-software-for-outreach.png)
+![image](https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/privacy-encryption-security-Rabbit1990-adobe.jpg)
 
 ## CONTRIBUTION
 
