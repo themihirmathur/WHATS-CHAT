@@ -67,9 +67,9 @@ nodemon .\index.js
 
 6. Install a CORS Unblock Extension to avoid Cross-Origin Resource Sharing Error OR Add Proxies.
 
-<img align="right" alt="Coding" height='250' width='350' src="https://res.cloudinary.com/practicaldev/image/fetch/s--o2-mzlA6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/foathske6a5prjf02dyf.gif">
+<img align="right" alt="Coding" height='250' width='400' src="https://res.cloudinary.com/practicaldev/image/fetch/s--o2-mzlA6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/foathske6a5prjf02dyf.gif">
 
-<img align="center" alt="Coding" height='250' width='350' src="https://res.cloudinary.com/practicaldev/image/fetch/s--hO6Qyy5n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/lqtoobekf1h1d08lcl56.gif">
+<img align="center" alt="Coding" height='250' width='400' src="https://res.cloudinary.com/practicaldev/image/fetch/s--hO6Qyy5n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/lqtoobekf1h1d08lcl56.gif">
 
 7. Run Live Server OR Start the application using:
 
