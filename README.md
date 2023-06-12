@@ -15,8 +15,6 @@ The application employs the robust AES algorithm for encrypting and decrypting m
 
 * `JavaScript`: The programming language used to implement the logic and functionality of the application.
 
-* [`Socket.io`](https://socket.io/): A library that enables real-time, bidirectional communication between the server and clients.
-
 ## DEPENDENCIES
 
 * [Node.js](https://nodejs.org/en)(`Recommended to Install the LTS version`): A JavaScript runtime environment used for server-side development.
