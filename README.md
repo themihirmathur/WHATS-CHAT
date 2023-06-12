@@ -19,10 +19,72 @@ The application employs the robust AES algorithm for encrypting and decrypting m
 
 * Socket.io: A library that enables real-time, bidirectional communication between the server and clients.
 
+## Features
+
+- Real-time messaging: Engage in instant and seamless conversations with other users.
+
+- End-to-End Encryption: All messages are encrypted using the AES algorithm to ensure privacy and confidentiality.
+ 
+- Multiple Users: Support for multiple users to communicate simultaneously.
+ 
+- User-friendly Interface: Intuitive and visually appealing interface for a seamless user experience.
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/whats-chat.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd WHATS-CHAT
+```
+
+3. Install the dependencies:
+
+```bash
+npm install
+```
+
+4. Install Nodemon (if not installed already)
+
+```bash
+npm install --global nodemon
+```
+
+5. Connect Server(index.js) to Client(client.js)
+
+```bash
+nodemon .\index.js
+```
+
+6. Install a CORS Unblock Extension to avoid Cross-Origin Resource Sharing Error OR Add Proxies.
+
+7. Run Live Server OR Start the application using:
+
+```bash
+npm start
+```
+& Open your web browser and visit http://localhost:3000 to access the WHATS-CHAT application.
+
+## USAGE
+
+1. Log in with your credentials (Name).
+2. Start sending messages to other users in the chat room.
+3. Enjoy secure and real-time encrypted conversations.
+
 <h2>VISION OF THIS PROJECT</h2>
 
 The vision of the WHATS-CHAT project is to provide users with a secure communication platform that safeguards their conversations from unauthorized access. 
 By leveraging strong encryption techniques and real-time functionality, the project aims to promote secure messaging and foster trust in online communication.
+
+## CONTRIBUTION
+
+Contributions are welcome! If you find any issues or would like to contribute to the project, please feel free to open a new issue or submit a pull request.
+Together, we can improve and enhance WHATS-CHAT.
 
 <h2>CONCLUSION</h2>
 
