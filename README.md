@@ -2,7 +2,7 @@
 
 <h2>DESCRIPTION</h2>
 
-WHATS-CHAT is a secure and Real-Time End-to-End Encrypted Chat Application designed to facilitate private communication among multiple users. 
+`WHATS-CHAT` is a secure and Real-Time End-to-End Encrypted Chat Application designed to facilitate private communication among multiple users. 
 The application employs the robust AES algorithm for encrypting and decrypting messages, ensuring the utmost privacy and confidentiality.
 
 <h2>TECHNOLOGIES STACKS & TOOLS USED</h2>
