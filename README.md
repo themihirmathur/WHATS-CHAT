@@ -1,4 +1,4 @@
-# [WHATS-CHAT](https://whats-chat-web.netlify.app/)
+# WHATS-CHAT
 
 <h2>DESCRIPTION</h2>
 
