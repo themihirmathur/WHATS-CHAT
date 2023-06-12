@@ -57,7 +57,7 @@ npm install
 npm install --global nodemon
 ```
 
-5. Connect Server(index.js) to Client(client.js)
+5. Connect Server`(index.js)` to Client`(client.js)`
 
 ```bash
 nodemon .\index.js
