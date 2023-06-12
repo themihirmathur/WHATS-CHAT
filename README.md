@@ -5,7 +5,7 @@
 WHATS-CHAT is a secure and Real-Time End-to-End Encrypted Chat Application designed to facilitate private communication among multiple users. 
 The application employs the robust AES algorithm for encrypting and decrypting messages, ensuring the utmost privacy and confidentiality.
 
-<h2>STACKS/TECHNOLOGIES USED</h2>
+<h2>TECHNOLOGIES STACKS & TOOLS USED</h2>
 
 * HTML: Used for structuring the web pages and user interfaces.
 
@@ -13,9 +13,13 @@ The application employs the robust AES algorithm for encrypting and decrypting m
 
 * [Visual Studio Code](https://code.visualstudio.com/): The integrated development environment used for coding and managing the project.
 
-* [Node.js](https://nodejs.org/en): A JavaScript runtime environment used for server-side development.
-
 * JavaScript: The programming language used to implement the logic and functionality of the application.
+
+* [Socket.io](https://socket.io/): A library that enables real-time, bidirectional communication between the server and clients.
+
+## DEPENDENCIES
+
+* [Node.js](https://nodejs.org/en)(`Recommended to Install the LTS version`): A JavaScript runtime environment used for server-side development.
 
 * [Socket.io](https://socket.io/): A library that enables real-time, bidirectional communication between the server and clients.
 
