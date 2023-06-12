@@ -71,7 +71,7 @@ nodemon .\index.js
 
 <img align="center" alt="Coding" height='250' width='400' src="https://res.cloudinary.com/practicaldev/image/fetch/s--hO6Qyy5n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/lqtoobekf1h1d08lcl56.gif">
 
-7. Run Live Server OR Start the application using:
+7. Run `Live Server` OR Start the application using:
 
 ```bash
 npm start
