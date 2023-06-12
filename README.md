@@ -36,7 +36,7 @@ The application employs the robust AES algorithm for encrypting and decrypting m
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/whats-chat.git
+git clone https://github.com/themihirmathur/WHATS-CHAT.git
 ```
 
 2. Navigate to the project directory:
