@@ -7,13 +7,13 @@ The application employs the robust AES algorithm for encrypting and decrypting m
 
 <h2>TECHNOLOGIES STACKS & TOOLS USED</h2>
 
-* `HTML`: Used for structuring the web pages and user interfaces.
+* HTML: Used for structuring the web pages and user interfaces.
 
-* `CSS`: Employed for styling and enhancing the visual presentation of the application.
+* CSS: Employed for styling and enhancing the visual presentation of the application.
 
-* [`Visual Studio Code`](https://code.visualstudio.com/): The integrated development environment used for coding and managing the project.
+* [Visual Studio Code](https://code.visualstudio.com/): The integrated development environment used for coding and managing the project.
 
-* `JavaScript`: The programming language used to implement the logic and functionality of the application.
+* JavaScript: The programming language used to implement the logic and functionality of the application.
 
 ## DEPENDENCIES
 
