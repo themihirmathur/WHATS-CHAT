@@ -84,7 +84,7 @@ npm start
 
 ## ACKNOWLEDGEMENTS
 
-* The AES encryption algorithm implementation is based on the [`crypto-js`](https://www.npmjs.com/package/crypto-js) library.
+* The AES encryption algorithm implementation is based on the [crypto-js](https://www.npmjs.com/package/crypto-js) library.
 * The Socket.io library is utilized for real-time communication.
 
 <h2>VISION OF THIS PROJECT</h2>
