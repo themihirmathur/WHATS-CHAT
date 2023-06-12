@@ -25,3 +25,7 @@ By leveraging strong encryption techniques and real-time functionality, the proj
 <h2>CONCLUSION</h2>
 The main outcome of the WHATS-CHAT project is the creation of a secure messaging platform that allows users to engage in real-time encrypted conversations. 
 This outcome provides a reliable and private communication channel, protecting sensitive information and fostering trust among users.
+
+For more information, please refer to the [documentation](https://github.com/themihirmathur/WHATS-CHAT) provided.
+
+Thank you for using WHATS-CHAT!
