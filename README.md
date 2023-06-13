@@ -23,8 +23,6 @@ The application employs the robust AES algorithm for encrypting and decrypting m
 
 * [Socket.io](https://socket.io/): A library that enables real-time, bidirectional communication between the server and clients.
 
-<img src="https://uploads.dailydot.com/2020/07/how-to-send-an-encrypted-message.jpg?auto=compress&fm=pjpg">
-
 ## FEATURES
 
 - Real-time messaging: Engage in instant and seamless conversations with other users.
@@ -35,6 +33,8 @@ The application employs the robust AES algorithm for encrypting and decrypting m
  
 - User-friendly Interface: Intuitive and visually appealing interface for a seamless user experience.
 
+<img src="https://uploads.dailydot.com/2020/07/how-to-send-an-encrypted-message.jpg?auto=compress&fm=pjpg">
+ 
 ## INSTALLASION
 
 1. Clone the repository:
