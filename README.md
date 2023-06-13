@@ -33,7 +33,7 @@ The application employs the robust AES algorithm for encrypting and decrypting m
  
 - User-friendly Interface: Intuitive and visually appealing interface for a seamless user experience.
 
-<img src="https://uploads.dailydot.com/2020/07/how-to-send-an-encrypted-message.jpg?auto=compress&fm=pjpg">
+<img height='450' src="https://github.com/themihirmathur/WHATS-CHAT/assets/92594107/3b755f05-195d-4ebf-a170-22f01f51bdbb">
  
 ## INSTALLASION
 
