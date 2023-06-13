@@ -108,6 +108,6 @@ Together, we can improve and enhance `WHATS-CHAT`.
 The main outcome of the WHATS-CHAT project is the creation of a secure messaging platform that allows users to engage in real-time encrypted conversations. 
 This outcome provides a reliable and private communication channel, protecting sensitive information and fostering trust among users.
 
-For more information, please refer to the [documentation](https://github.com/themihirmathur/WHATS-CHAT) provided.
+For more information, please refer to the [Documentation](https://github.com/themihirmathur/WHATS-CHAT) provided.
 
 Thank you for using WHATS-CHAT!
