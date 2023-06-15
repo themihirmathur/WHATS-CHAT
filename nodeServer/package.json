@@ -4,7 +4,6 @@
   "description": "This is a node server for our WHATS-CHAT Application",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mihir",
