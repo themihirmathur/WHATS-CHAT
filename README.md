@@ -82,7 +82,7 @@ npm start
 
 ## USAGE
 
-1. Log in with your credentials (Name).
+1. Login with your credentials (Name).
 2. Start sending messages to other users in the chat room.
 3. Enjoy secure and real-time encrypted conversations.
 
