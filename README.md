@@ -9,7 +9,7 @@ The application employs the robust AES algorithm for encrypting and decrypting m
 
 <h2>TECHNOLOGIES STACKS & TOOLS USED</h2>
 
-* HTML: Used for structuring the web pages and user interfaces.
+* HTML: Used for structuring web pages and user interfaces.
 
 * CSS: Employed for styling and enhancing the visual presentation of the application.
 
