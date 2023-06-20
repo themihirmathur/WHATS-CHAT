@@ -35,7 +35,7 @@ The application employs the robust AES algorithm for encrypting and decrypting m
 
 <img height='440' src="https://github.com/themihirmathur/WHATS-CHAT/assets/92594107/3b755f05-195d-4ebf-a170-22f01f51bdbb">
  
-## INSTALLASION
+## INSTALLATION
 
 1. Clone the repository:
 
